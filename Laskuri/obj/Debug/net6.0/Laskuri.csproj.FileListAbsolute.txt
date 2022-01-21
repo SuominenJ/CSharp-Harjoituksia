@@ -1,0 +1,15 @@
+C:\Users\Käyttäjä\source\repos\Laskuri\bin\Debug\net6.0\Laskuri.exe
+C:\Users\Käyttäjä\source\repos\Laskuri\bin\Debug\net6.0\Laskuri.deps.json
+C:\Users\Käyttäjä\source\repos\Laskuri\bin\Debug\net6.0\Laskuri.runtimeconfig.json
+C:\Users\Käyttäjä\source\repos\Laskuri\bin\Debug\net6.0\Laskuri.dll
+C:\Users\Käyttäjä\source\repos\Laskuri\bin\Debug\net6.0\ref\Laskuri.dll
+C:\Users\Käyttäjä\source\repos\Laskuri\bin\Debug\net6.0\Laskuri.pdb
+C:\Users\Käyttäjä\source\repos\Laskuri\obj\Debug\net6.0\Laskuri.csproj.AssemblyReference.cache
+C:\Users\Käyttäjä\source\repos\Laskuri\obj\Debug\net6.0\Laskuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Käyttäjä\source\repos\Laskuri\obj\Debug\net6.0\Laskuri.AssemblyInfoInputs.cache
+C:\Users\Käyttäjä\source\repos\Laskuri\obj\Debug\net6.0\Laskuri.AssemblyInfo.cs
+C:\Users\Käyttäjä\source\repos\Laskuri\obj\Debug\net6.0\Laskuri.csproj.CoreCompileInputs.cache
+C:\Users\Käyttäjä\source\repos\Laskuri\obj\Debug\net6.0\Laskuri.dll
+C:\Users\Käyttäjä\source\repos\Laskuri\obj\Debug\net6.0\ref\Laskuri.dll
+C:\Users\Käyttäjä\source\repos\Laskuri\obj\Debug\net6.0\Laskuri.pdb
+C:\Users\Käyttäjä\source\repos\Laskuri\obj\Debug\net6.0\Laskuri.genruntimeconfig.cache
